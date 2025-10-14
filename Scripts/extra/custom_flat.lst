@@ -18,22 +18,22 @@ io.gitlab.adhami3310.Impression                # Impression
 io.github.spacingbat3.webcord                  # Webcord
 
 # ------------------------------------------- // Productivity
-# md.obsidian.Obsidian                         # Obsidian
+md.obsidian.Obsidian                         # Obsidian
 # org.mozilla.Thunderbird                      # Thunderbird
 # io.github.alainm23.planify                   # Planify
 
 # ------------------------------------------- // Image/Graphics
 org.inkscape.Inkscape                          # Inkscape
-org.kde.krita                                  # Krita
+# org.kde.krita                                  # Krita
 org.gimp.GIMP                                  # Gimp
-org.blender.Blender                            # Blender
-io.gitlab.theevilskeleton.Upscaler             # ImageUpscaler
+# org.blender.Blender                            # Blender
+# io.gitlab.theevilskeleton.Upscaler             # ImageUpscaler
 
 # ------------------------------------------- // Photography
 # org.gnome.Shotwell                           # Shotwell
 # org.darktable.Darktable                      # Darktable
 # org.kde.digikam                              # Digikam
-org.gnome.eog                                  # ImageViewer
+# org.gnome.eog                                  # ImageViewer
 
 # ------------------------------------------- // Audio/Video
 # com.spotify.Client                           # Spotify
