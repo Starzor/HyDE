@@ -7,3 +7,4 @@ Scripts/pkg_black.lst
 .zsh_history*
 .zcompdump*
 Configs/.config/uwsm/*
+out.txt
